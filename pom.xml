@@ -86,5 +86,6 @@
         </configuration>
       </plugin>
     </plugins>
+    <finalName>vertx-example</finalName>
   </build>
 </project>
